@@ -902,16 +902,29 @@
     "status": "no-contact-found",
     "lastFetched": "2026-05-09T16:09:12.548Z"
   },
-  "Haiku": {
-    "org": "Haiku",
-    "ideasUrl": "https://www.haiku-os.org/community/gsoc/2026/",
-    "channels": [],
-    "mentors": [],
-    "mailingLists": [],
-    "tip": "",
-    "status": "no-contact-found",
-    "lastFetched": "2026-05-09T16:09:12.548Z"
-  },
+"Haiku": {
+  "org": "Haiku",
+  "ideasUrl": "https://www.haiku-os.org/community/gsoc/2026/ideas/",
+  "channels": [
+    "IRC: #haiku on OFTC",
+    "Haiku Forums"
+  ],
+  "mentors": [
+    "PulkoMandy",
+    "waddlesplash",
+    "KapiX",
+    "korli",
+    "kallisti5",
+    "scottmc"
+  ],
+  "mailingLists": [
+    "haiku-development",
+    "haiku-gsoc"
+  ],
+  "tip": "Discuss project ideas with mentors through the forum, IRC, or mailing lists before applying.",
+  "status": "ok",
+  "lastFetched": "2026-05-09T16:09:12.548Z"
+},
   "Haskell.org": {
     "org": "Haskell.org",
     "ideasUrl": "https://summer.haskell.org/",
